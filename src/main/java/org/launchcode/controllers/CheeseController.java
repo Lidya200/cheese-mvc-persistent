@@ -16,6 +16,7 @@ import javax.validation.Valid;
  * Created by LaunchCode
  */
 @Controller
+@RestController
 @RequestMapping("cheese")
 public class CheeseController {
 
